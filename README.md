@@ -7,6 +7,7 @@ This repository contains the resources of the preparation course for Databricks 
 <br/>
 <br/>
 
+Testing things
 
 ## Practice Exams
 
